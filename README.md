@@ -45,7 +45,6 @@ To run the demo, follow these steps:
     ```bash
     virtualenv venv
     source venv/bin/activate
-    pip install -r requirements.txt
     ```
 
 3. **Run Jupyter Notebook**:
